@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.bg {
+  background-color: #ffc2a0;
+ 
+  padding: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.con {
+  border-radius: 10px;
+  background-color: white;
+  padding: 40px;
+  width: 60vw;
+}
+h1 {
+  color: #ffc2a0;
+  text-align: center;
+}
